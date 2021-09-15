@@ -7,7 +7,7 @@
   * *We learnt about ***`format()`*** which helps in formating.An example is given below :point_down:*
      * ***```print("value of list_of_data_within_3_std_deviation is {}%".format(list_of_data_within_3_std_deviation)```***
      * *Here the value of **list_of_data_within_3_std_deviation** would be inserted in the curly brackets **{}***
-  * *New traces can be added to a graph object figure using the **`add_trace`*** method.*
+  * *New traces can be added to a graph object figure using the **`add_trace`** method.*
   * *We learnt about mean,median,mode and stdev from **statistics** library.*
       * *stdev helps to find standard deviation* 
   
